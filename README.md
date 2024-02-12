@@ -22,3 +22,7 @@ This project uses a pretrained Glove word embeddings (glove.6B.zip) in one of th
 
 Rest of the models have been trained during the course of this project on the Huffington Post dataset. Given the limitations on the fize size on Github, the trained model pickle files could not be added here, but the jupyter notebooks contain the code for training the model as well.
 
+## Instructions on running the code
+This project has been completely undertaken in jupyter notebooks. The notebooks can be downloaded and run locally, or uploaded to google colab if better computational resources are required.
+
+There are some experiments that train neural network models using Tensorflow/Pytorch. It is recommended to upload the file to google colab and use a GPU to execute these sections as local compute resources would most likley not be powerful enough.
