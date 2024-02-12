@@ -9,18 +9,20 @@ This dataset is in JSON format with labeled categories like ‘Politics’, ‘S
 
 <img width="700" alt="image" src="https://github.com/ShrutiRavichandran/Multiclass-classification-of-news-articles/assets/47455312/0e62f098-f050-4463-a203-91b9d4dce3b9">
 
+The dataset can be downloaded from Kaggle: https://www.kaggle.com/datasets/rmisra/news-category-dataset
 
 For more details on the experiments please refer to the .pptx file or the project report. You could also get a gist through this blog post: 
 
-
-## Prerequisites
-The dataset can be downloaded from Kaggle: https://www.kaggle.com/datasets/rmisra/news-category-dataset
-
-This project uses a pretrained Glove word embeddings (glove.6B.zip) in one of the experiments which can be downloaded from https://nlp.stanford.edu/projects/glove/ 
-
-Rest of the models have been trained during the course of this project on the Huffington Post dataset. Given the limitations on the fize size on Github, the trained model pickle files could not be added here, but the jupyter notebooks contain the code for training the model as well.
 
 ## Instructions on running the code
 This project has been completely undertaken in jupyter notebooks. The notebooks can be downloaded and run locally, or uploaded to google colab if better computational resources are required.
 
 There are some experiments that train neural network models using Tensorflow/Pytorch. It is recommended to upload the file to google colab and use a GPU to execute these sections as local compute resources would most likley not be powerful enough.
+
+
+## Prerequisites
+
+This project uses a pretrained Glove word embeddings (glove.6B.zip) in one of the experiments which can be downloaded from https://nlp.stanford.edu/projects/glove/ 
+
+Rest of the models have been trained during the course of this project on the Huffington Post dataset. Given the limitations on the fize size on Github, the trained model pickle files could not be added here, but the jupyter notebooks contain the code for training the model as well.
+
