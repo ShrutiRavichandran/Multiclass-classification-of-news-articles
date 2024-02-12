@@ -6,7 +6,8 @@ The text-mining project aims at building a supervised machine learning model for
 which has been used for this investigation contains news headlines and short descriptions from the Huffington Post, for news articles published from the years 2012 to 2022.
 
 This dataset is in JSON format with labeled categories like ‘Politics’, ‘Sports’, and ‘Arts’ which can be used for supervised learning. For example, one of the rows is:
-<img width="352" height="352" alt="image" src="https://github.com/ShrutiRavichandran/Multiclass-classification-of-news-articles/assets/47455312/0e62f098-f050-4463-a203-91b9d4dce3b9">
+
+<img width="352" alt="image" src="https://github.com/ShrutiRavichandran/Multiclass-classification-of-news-articles/assets/47455312/0e62f098-f050-4463-a203-91b9d4dce3b9">
 
 
 For more details on the experiments, please refer to the following files:
