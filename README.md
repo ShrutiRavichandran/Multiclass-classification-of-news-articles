@@ -1,5 +1,6 @@
 # Multiclass classification of news articles
 
+
 ## Description
 
 The text-mining project aims at building a supervised machine learning model for categorizing news articles. It explores the use of sparse and dense feature representations, the requisite text preprocessing for each, and various combinations of supervised classification techniques for this multi-class text classification task. The dataset
@@ -14,10 +15,12 @@ The dataset can be downloaded from Kaggle: https://www.kaggle.com/datasets/rmisr
 For more details on the experiments please refer to the .pptx file or the project report. You could also get a gist through this blog post: 
 
 
+
 ## Instructions on running the code
 This project has been completely undertaken in jupyter notebooks. The notebooks can be downloaded and run locally, or uploaded to google colab if better computational resources are required.
 
 There are some experiments that train neural network models using Tensorflow/Pytorch. It is recommended to upload the file to google colab and use a GPU to execute these sections as local compute resources would most likley not be powerful enough.
+
 
 
 ## Prerequisites
