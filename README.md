@@ -10,7 +10,7 @@ This dataset is in JSON format with labeled categories like ‘Politics’, ‘S
 <img width="700" alt="image" src="https://github.com/ShrutiRavichandran/Multiclass-classification-of-news-articles/assets/47455312/0e62f098-f050-4463-a203-91b9d4dce3b9">
 
 
-For more details on the experiments, please refer to this blog post: 
+For more details on the experiments please refer to the .pptx file or this blog post: 
 
 
 ## Prerequisites
